@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![](https://imgur.com/a/GlAjXcc)
+![Alt text](https://i.imgur.com/BNuk5aK.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 <!-- GIF created with Kap -->
