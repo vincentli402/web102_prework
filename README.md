@@ -22,11 +22,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='![Alt text](<Kapture 2024-02-04 at 19.16.36.gif>)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](web102prework-ezgif.com-video-to-gif-converter.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap
+<!-- GIF created with Kap -->
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
