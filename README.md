@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![](web102prework-ezgif.com-video-to-gif-converter.gif)
+![](https://imgur.com/a/GlAjXcc)
 
 <!-- Replace this with whatever GIF tool you used! -->
 <!-- GIF created with Kap -->
